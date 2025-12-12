@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【シャニマス】SOS（歌：黛 冬優子） - オリジナルMV【アイドルマスター】",
+  "base_artist": "黛 冬優子",
+  "createdAt": "2025-12-12T15:18:42.363235Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOS",
+      "artist": "黛冬優子 (CV.幸村恵理)",
+      "has_synced": false,
+      "path": "select/pl_01_SOS_黛冬優子_(CV.幸村恵理).txt"
+    }
+  ]
+}
